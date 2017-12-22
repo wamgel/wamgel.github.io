@@ -8,7 +8,7 @@
 minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en"
+locale                   : "zh-CHS"
 title                    : "林隐"
 title_separator          : "-"
 name                     : "wamgel"
