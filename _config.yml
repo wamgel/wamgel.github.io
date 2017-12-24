@@ -84,7 +84,7 @@ analytics:
 # Site Author
 author:
   name             : "wamgel"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           :https://github.com/wamgel/wamgel.github.io/blob/master/pictures/900269681616598985.jpg?raw=true # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "write something"
   location         : "EARTH"
   email            :
