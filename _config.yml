@@ -83,7 +83,7 @@ analytics:
 # Site Author
 author:
   name             : "wamgel"
-  avatar           : "/assets/image/bio-photo.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/image/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "read-think-write-practice "
   location         : "EARTH"
   email            :
