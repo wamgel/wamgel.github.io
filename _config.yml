@@ -251,5 +251,10 @@ defaults:
       comments:  true
       share: true
       related: true
+      
+collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
 
 remote_theme: minimal-mistakes-jekyll
